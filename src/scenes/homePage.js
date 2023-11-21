@@ -239,7 +239,7 @@ const HomePage = () => {
           <Button
             variant="contained"
             color="primary"
-            href="https://github.com/pal-NIKHIL/SRM-INSIGHTS"
+            href="https://github.com/aryan618/Frontend-in"
             target="_blank"
             sx={{
               backgroundColor: "#161313",
